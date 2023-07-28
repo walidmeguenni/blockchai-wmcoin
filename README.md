@@ -6,7 +6,7 @@ To get started with Wmcoin, you will need to have Node.js and npm installed on y
 
 To install Wmcoin, clone the repository to your local machine:
 
-```git clone https://github.com/walidmeguenni/blockchain-p2p.git```
+```git clone https://github.com/walidmeguenni/blockchain-wmcoin.git```
 
 Then, navigate to the project directory and install the required dependencies:
 
